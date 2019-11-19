@@ -1,0 +1,5 @@
+## intent:goodbye
+- bye
+- goodbye
+- see you around
+- see you later

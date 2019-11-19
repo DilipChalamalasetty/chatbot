@@ -1,0 +1,29 @@
+{
+    "rasa_nlu_data": {
+        "common_examples": [
+            {
+                "intent": "affirm",
+                "text": "yes"
+            },
+            {
+                "intent": "affirm",
+                "text": "indeed"
+            },
+            {
+                "intent": "affirm",
+                "text": "of course"
+            },
+            {
+                "intent": "affirm",
+                "text": "that sounds good"
+            },
+            {
+                "intent": "affirm",
+                "text": "correct"
+            }
+        ],
+        "regex_features": [],
+        "lookup_tables": [],
+        "entity_synonyms": []
+    }
+}

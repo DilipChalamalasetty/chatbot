@@ -1,0 +1,37 @@
+{
+    "rasa_nlu_data": {
+        "common_examples": [
+            {
+                "intent": "greet",
+                "text": "hey"
+            },
+            {
+                "intent": "greet",
+                "text": "hello"
+            },
+            {
+                "intent": "greet",
+                "text": "hi"
+            },
+            {
+                "intent": "greet",
+                "text": "good morning"
+            },
+            {
+                "intent": "greet",
+                "text": "good evening"
+            },
+            {
+                "intent": "greet",
+                "text": "hey there"
+            },
+            {
+                "intent": "greet",
+                "text": "hey hello"
+            }
+        ],
+        "regex_features": [],
+        "lookup_tables": [],
+        "entity_synonyms": []
+    }
+}

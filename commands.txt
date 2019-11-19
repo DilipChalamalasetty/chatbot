@@ -1,0 +1,5 @@
+rasa data split nlu -u ./data/nlu.md --training-fraction 0.5 --out ./dilip/
+(which creates train and test split of nlu data)
+
+
+rasa data convert nlu --data ./data/nlu/nlu.md --out ./data/nlu/nlu_json.json --format json

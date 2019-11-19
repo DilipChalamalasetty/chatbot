@@ -1,0 +1,41 @@
+{
+    "rasa_nlu_data": {
+        "common_examples": [
+            {
+                "intent": "mood_great",
+                "text": "perfect"
+            },
+            {
+                "intent": "mood_great",
+                "text": "very good"
+            },
+            {
+                "intent": "mood_great",
+                "text": "great"
+            },
+            {
+                "intent": "mood_great",
+                "text": "amazing"
+            },
+            {
+                "intent": "mood_great",
+                "text": "wonderful"
+            },
+            {
+                "intent": "mood_great",
+                "text": "I am feeling very good"
+            },
+            {
+                "intent": "mood_great",
+                "text": "I am great"
+            },
+            {
+                "intent": "mood_great",
+                "text": "I'm good"
+            }
+        ],
+        "regex_features": [],
+        "lookup_tables": [],
+        "entity_synonyms": []
+    }
+}

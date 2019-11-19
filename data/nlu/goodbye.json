@@ -1,0 +1,25 @@
+{
+    "rasa_nlu_data": {
+        "common_examples": [
+            {
+                "intent": "goodbye",
+                "text": "bye"
+            },
+            {
+                "intent": "goodbye",
+                "text": "goodbye"
+            },
+            {
+                "intent": "goodbye",
+                "text": "see you around"
+            },
+            {
+                "intent": "goodbye",
+                "text": "see you later"
+            }
+        ],
+        "regex_features": [],
+        "lookup_tables": [],
+        "entity_synonyms": []
+    }
+}

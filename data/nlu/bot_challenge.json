@@ -1,0 +1,25 @@
+{
+    "rasa_nlu_data": {
+        "common_examples": [
+            {
+                "intent": "bot_challenge",
+                "text": "are you a bot?"
+            },
+            {
+                "intent": "bot_challenge",
+                "text": "are you a human?"
+            },
+            {
+                "intent": "bot_challenge",
+                "text": "am I talking to a bot?"
+            },
+            {
+                "intent": "bot_challenge",
+                "text": "am I talking to a human?"
+            }
+        ],
+        "regex_features": [],
+        "lookup_tables": [],
+        "entity_synonyms": []
+    }
+}

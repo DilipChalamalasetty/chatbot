@@ -1,0 +1,33 @@
+{
+    "rasa_nlu_data": {
+        "common_examples": [
+            {
+                "intent": "deny",
+                "text": "no"
+            },
+            {
+                "intent": "deny",
+                "text": "never"
+            },
+            {
+                "intent": "deny",
+                "text": "I don't think so"
+            },
+            {
+                "intent": "deny",
+                "text": "don't like that"
+            },
+            {
+                "intent": "deny",
+                "text": "no way"
+            },
+            {
+                "intent": "deny",
+                "text": "not really"
+            }
+        ],
+        "regex_features": [],
+        "lookup_tables": [],
+        "entity_synonyms": []
+    }
+}
